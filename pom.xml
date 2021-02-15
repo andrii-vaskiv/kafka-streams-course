@@ -10,6 +10,7 @@
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>word-count-stream</module>
+        <module>favorite-color-count-stream</module>
         <module>bank-balance-exactly-once</module>
     </modules>
 
